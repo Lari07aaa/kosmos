@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="519644b4-5c49-4008-8042-65d013e888f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/front/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/KosmosServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoginRoute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/front/css/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesHome/galaxia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/imagesHome/galaxia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesHome/ipsum.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/imagesHome/ipsum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesHome/jalasoft.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/imagesHome/jalasoft.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesHome/jalauniversity.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/imagesHome/jalauniversity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesHome/kosmospage.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/imagesHome/kosmospage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesHome/lorem.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/imagesHome/lorem.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesHome/slogan.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/imagesHome/slogan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="36NnxmXjL6YDy5THOb5I6pucaA2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Kosmos.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/kosmos final/front/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\kosmos final\front\css" />
+      <recent name="C:\kosmos final\front" />
+      <recent name="C:\kosmos final\src\main\resources" />
+      <recent name="C:\kosmos final\src\main\java" />
+      <recent name="C:\kosmos final\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Kosmos" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="kosmos_final" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="519644b4-5c49-4008-8042-65d013e888f9" name="Changes" comment="" />
+      <created>1764856146062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764856146062</updated>
+      <workItem from="1764856147224" duration="5402000" />
+      <workItem from="1764962247469" duration="5423000" />
+      <workItem from="1765286042789" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
